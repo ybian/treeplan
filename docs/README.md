@@ -16,8 +16,11 @@ It has the following features:
 Install this as a normal Excel add-in:
 
 1. Download the `BYTreePlan.xlam` file
+
 2. (macOS) Open Excel, on the **Tools** menu, select **Excel Add-ins**.
-    (Windows) Open Excel, click the **File** tab, click **Options**, and then click the **Add-Ins** category.
+
+   (Windows) Open Excel, click the **File** tab, click **Options**, and then click the **Add-Ins** category.
+
 3. Click **Browse** to locate the add-in file, and then click **OK**.
 
 ## Support
