@@ -3,7 +3,7 @@ The Excel add-in for tree plan, free and modern version.
 ![](screenshot-1.jpg)
 
 ## Why this
-The widespread treeplan add-in on the web was created in last decade. It is not user friendly and it does not work with Excel for Mac. As the homework for the *"Data, Modeling and Analysis"* course in SJTU Antai MBA, I rewrote this plugin.
+The widespread treeplan add-in on the web was created in last decade. It is not user friendly and it does not work with Excel for Mac. As the homework for the *"Data, Modeling and Analysis"* course in SJTU Antai MBA, I rewrote this add-in.
 
 It has the following features:
 
